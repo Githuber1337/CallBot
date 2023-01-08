@@ -6,3 +6,4 @@
 ## How to use?
 - [Install](https://github.com/Githuber1337/CallBot/releases/download/callbot/CallBot-Setup.rar) the **.rar** file 
 - Open the **exe**
+ 
